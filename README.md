@@ -1,1 +1,1 @@
-# ML-project
+# Toxic comment classifier
