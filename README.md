@@ -1,50 +1,52 @@
 # Toxic comment classifier
-A deep learning project that detects toxic comments (such as insults, threats, obscenities, or harassment) using Python, TensorFlow, and Natural Language Processing (NLP).
+🌈✨ Toxic Comment Classifier 🧠💬
 
-It also comes with a Gradio-powered web app where you can interactively test comments in real-time 🚀.
+A Deep Learning + NLP project that detects toxic comments like 💢 insults, 🚫 threats, 🤬 obscenities, and 🥲 hate speech.
+Built with Python 🐍, TensorFlow 🔥, and Gradio 🎨 — so you can train models + run a fun interactive web app right from your browser. 🚀
 
-🚀 Features
+🎯 Features
 
-Detects multiple categories of toxicity:
+✅ Classifies comments into multiple categories:
 
-Toxic
+🧪 Toxic
 
-Severe Toxic
+😡 Severe Toxic
 
-Obscene
+🤬 Obscene
 
-Threat
+🔪 Threat
 
-Insult
+🤢 Insult
 
-Identity Hate
+👤 Identity Hate
 
-Built with TensorFlow (deep learning model).
-
-Clean NLP pipeline: lowercasing, stopword removal, tokenization, and lemmatization.
-
-Gradio Web App: Try the model in a simple browser UI.
-
-Can be trained on Kaggle’s Jigsaw Toxic Comment dataset.
+✅ Built with TensorFlow Deep Learning Models (LSTM / CNN / BiLSTM)
+✅ NLP Pipeline: Tokenization, Stopword Removal, Lemmatization
+✅ Interactive Web App with Gradio 🎛️
+✅ Dataset: Kaggle Jigsaw Toxic Comment Classification Challenge 📊
 
 🛠️ Tech Stack
+Category	Tools Used
+💻 Language	Python 🐍
+🤖 Deep Learning	TensorFlow / Keras
+🔠 NLP	NLTK, SpaCy
+🎨 UI	Gradio
+📊 Data	Pandas, NumPy
+📉 Visualization	Matplotlib, Seaborn
 
-Language: Python
 
-Deep Learning: TensorFlow / Keras
+📦 toxic-comment-classifier/
+ ┣ 📜 toxic_classifier.py   # Main script (training + prediction + Gradio app)
+ ┣ 📜 requirements.txt      # Dependencies
+ ┣ 📜 README.md             # Project documentation
 
-NLP: NLTK / SpaCy
 
-Web App: Gradio
 
-Data Handling: Pandas, NumPy
+🛡️ Ethical Considerations ⚠️
 
-Visualization: Matplotlib, Seaborn
-
-🛡️ Ethical Considerations
-
-This project is for educational and research purposes.
-Machine learning models can reflect biases in the dataset, so always pair with human moderation for production.
+⚖️ This project is for learning & research purposes only.
+💡 Models may be biased due to dataset limitations.
+👀 Always combine with human moderation in real-world apps.
 
 
 <img width="1919" height="1022" alt="Screenshot 2025-05-14 115734" src="https://github.com/user-attachments/assets/89b982eb-5a68-4434-bb26-e64ba1b25ba7" />
