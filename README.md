@@ -40,3 +40,15 @@ Web App: Gradio
 Data Handling: Pandas, NumPy
 
 Visualization: Matplotlib, Seaborn
+
+🛡️ Ethical Considerations
+
+This project is for educational and research purposes.
+Machine learning models can reflect biases in the dataset, so always pair with human moderation for production.
+
+
+<img width="1919" height="1022" alt="Screenshot 2025-05-14 115734" src="https://github.com/user-attachments/assets/89b982eb-5a68-4434-bb26-e64ba1b25ba7" />
+<img width="1919" height="1021" alt="Screenshot 2025-05-14 115759" src="https://github.com/user-attachments/assets/ab92d8fe-0e73-4c66-8479-1a3102b1523c" />
+<img width="1318" height="812" alt="Screenshot 2025-05-14 215137" src="https://github.com/user-attachments/assets/a2a2949a-ee32-433b-aa06-3d4c2bb844f0" />
+
+
